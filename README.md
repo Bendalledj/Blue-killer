@@ -1,7 +1,7 @@
 # Blue - Killer
 
 
-This is a Python project created by the RedTeamHacker Academy students under the Guidance of Athul Sir. The project is an automation tool for the MS17-010 vulnerability using Metasploit.
+The project is an automation tool for the MS17-010 vulnerability using Metasploit.
 
 
 # Installation
