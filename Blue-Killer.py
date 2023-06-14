@@ -32,27 +32,6 @@ print(r'''
                                                  
 
   
-Team 2 Members:
-1.  Muhammed Ashique - TEAM LEADER 
-2.  Nishal
-3.  Vishnu TP
-4.  Deepu 
-5.  Jazzam
-6.  Sreehari
-7.  Minhaj
-8.  Jithin
-9.  Arathi
-10. Jithun
-11. Kiran
-12. Midlaj
-13. Fahad
-14. Muhsin
-15. Shan
-16. Sourav 
-17. Aslam
-18. Tomstan 
-19. Venus 
-20. Vishnu Prasad 
 ''')
 
 
